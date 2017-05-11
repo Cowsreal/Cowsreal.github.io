@@ -68,6 +68,7 @@ ul {
   overflow: hidden;
   height:250px;
   margin:auto;
+  transform: translate3d(0,0,0);
  }
 .slider > div{
   width: 999999999999999999999px;
@@ -76,10 +77,11 @@ ul {
   left: 0;
   top: 0;
   height: 100%;
-
+  transform: translate3d(0,0,0);
 }
 .slider .pictures{
   animation: slider 100000s linear infinite;
+    transform: translate3d(0,0,0);
 }
 @keyframes slider {  
  100% { 
