@@ -80,7 +80,7 @@ body {
 .project {
     padding-top: +30px;
     margin-left: 40px;
-    box-shadow: 10px 10px 12px -1px rgba(138,138,138,0.75);
+    box-shadow: -10px 10px 12px -1px rgba(138,138,138,0.75);
 }
 
 .container {
