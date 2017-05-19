@@ -1,0 +1,96 @@
+body {
+    margin-left: 25%;
+    background: #84eaff;
+}
+
+.maintitle {
+    font-size: 36px;
+}
+
+.date {
+    font-size: 18px;
+}
+
+.name {
+    font-size: 18px;
+}
+
+.intro2 > p {
+    display: inline;
+}
+
+.horizontaldividerdot {
+    margin-top: 5px;
+    border-top: 2px dotted #000;
+    margin-bottom: 5px;
+    width: 800px;
+}
+
+.p1 {}
+
+#p1t {
+    font-size: 20px;
+}
+
+#war {
+    display: inline-block;
+    width: 300px;
+    height: auto;
+}
+
+#paragraph {
+    display: inline-block;
+    width: 500px;
+}
+
+.imagebkgd1 {
+    background: #e5e5e5;
+    width: 300px;
+    height: 250px;
+    display: inline-block;
+    z-index: -1;
+    position: relative;
+    right: 304px;
+    top: 15px;
+}
+
+#boat {
+    display: inline-block;
+}
+
+.imagebkgd1 > p {
+    margin-top: 230px;
+}
+
+.imagebkgd2 {
+    background: #e5e5e5;
+    width: 375px;
+    height: 75px;
+    display: inline-block;
+    z-index: -1;
+    position: relative;
+    right: 378px;
+    top: 0px;
+}
+
+.imagebkgd2 > p {
+    margin-top: 70px;
+}
+
+.project {
+    padding-top: +30px;
+    margin-left: 40px;
+}
+
+.container {
+    position: relative;
+    right: 40px;
+    height: 100%;
+    width: 1400px;
+    background: #fff;
+    z-index: -3;
+}
+
+#p2t {
+    font-size: 20px;
+}
